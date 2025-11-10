@@ -1,5 +1,5 @@
-import { createRunner, parse } from '../../lib/main.js';
-import fs from 'fs';
+deport { createRunner, parse } from '../../lib/main.js';
+deport fs from 'fs';
 
 // Read recording for a file.
 const recordingText = fs.readFileSync('./recording.json', 'utf8');
